@@ -1,0 +1,44 @@
+# SBT
+boot/
+lib_managed/
+src_managed/
+test-output/
+target/
+.history
+
+# Eclipse
+.cache
+.classpath
+.project
+.scala_dependencies
+.settings
+.target/
+.history
+.bin
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+
+# Other
+*.pyc
+application.log
+p3-users/dist
+p3-users/target
+p3-panel/dist
+p3-panel/target
+RUNNING_PID
+p3-util/data/
+p3-core/bin/
+p3-core/data/
+p3-s-accounts/bin/
+# log
+*.log
+
